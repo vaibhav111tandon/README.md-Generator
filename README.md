@@ -12,10 +12,7 @@ Install latest version of Node and NPM
 npm install os-rd
 
 ## Usage 
-os-rd
-
-
-
+npx os-rd
 
 ## Author
 **Vaibhav Tandon**

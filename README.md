@@ -33,5 +33,5 @@ MIT
 
 ---
 
-*This README was generated with :heart: by rd*
+*This README was generated with :heart: by os-rd*
 

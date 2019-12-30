@@ -1,0 +1,21 @@
+{
+  "name": "rd",
+  "version": "0.0.1",
+  "description": "A README.md generator",
+  "main": "src/index.js",
+  "bin": {
+    "rd": "./src/index.js"
+  },
+  "scripts": {
+    
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "Vaibhav Tandon",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.1"
+  }
+}

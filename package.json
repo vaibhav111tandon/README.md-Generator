@@ -1,5 +1,5 @@
 {
-  "name": "rd",
+  "name": "rd-g",
   "version": "0.0.1",
   "description": "A README.md generator",
   "main": "src/index.js",
@@ -9,9 +9,7 @@
   "scripts": {
     
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
+  
   "author": "Vaibhav Tandon",
   "license": "ISC",
   "dependencies": {

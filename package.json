@@ -1,17 +1,13 @@
 {
   "name": "os-rd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A README.md generator",
   "main": "src/index.js",
   "bin": {
     "os-rd": "./src/index.js"
   },
-  "scripts": {
-    
-  },
-  
   "author": "Vaibhav Tandon",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "inquirer": "^7.0.1"

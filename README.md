@@ -1,7 +1,7 @@
 
 # README.md Generator
 
-![Project Version](https://img.shields.io/badge/Version-0.0.1-blue)  ![Maintained](https://img.shields.io/badge/Maintained-Yes-yellowgreen) ![Twitter Follow](https://img.shields.io/twitter/follow/hypermystic111?style=social) ![License](https://img.shields.io/badge/License-MIT-green)
+![Project Version](https://img.shields.io/badge/Version-0.0.2-blue)  ![Maintained](https://img.shields.io/badge/Maintained-Yes-yellowgreen) ![Twitter Follow](https://img.shields.io/twitter/follow/hypermystic111?style=social) ![License](https://img.shields.io/badge/License-MIT-green)
 
 **It helps in generating the README.md pages for open source projects.**
 
